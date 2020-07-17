@@ -30,10 +30,6 @@ import org.json.JSONObject;
 public class MainActivity extends Activity {
     public static final int REQUEST_CODE_MENU = 101;
 
-    //연동코드
-    ImageView imView;
-
-    //1
 
     //액티비티 옮겼을때 메세지
     @Override
@@ -73,8 +69,6 @@ public class MainActivity extends Activity {
 
 
     }
-
-
 
 
     }
